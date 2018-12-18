@@ -1,2 +1,0 @@
-This is just file created using> nano abc.txt
-
